@@ -1,0 +1,4 @@
+# ignore all terraform files exe and hcl file
+.terraform*
+*.terraform-provider-aws_v3.62.0_x5.exe
+*.exe
